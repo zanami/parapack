@@ -10,6 +10,7 @@ dependencies[] = image
 dependencies[] = image_link_formatter
 dependencies[] = link
 dependencies[] = media
+dependencies[] = owlcarousel
 dependencies[] = owlcarousel_fields
 dependencies[] = paragraphs
 dependencies[] = smart_trim
